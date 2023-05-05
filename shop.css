@@ -1,0 +1,90 @@
+
+.sizes{
+    font-weight: bold;
+}
+
+.sizes1 {
+    margin-left: 20px;
+}
+
+.small-size {
+    display: flex;
+}
+
+.btn-secondary {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.comment {
+    color: rgb(166, 165, 165);
+    font-size: 14px;
+}
+
+.space-top {
+    padding-top: 80px;
+}
+
+.top {
+    display: flex;
+}
+
+.order {
+    margin-left: 760px;
+}
+
+.select {
+    width: 200px;
+    margin-left: 15px;
+}
+
+.card {
+    height: 450px;
+    
+}
+
+.card-width {
+    width: 300px;
+}
+
+.image {
+    height: 300px;
+}
+
+.card-space {
+    display: flex;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.card-space a {
+    border-radius: 1px;
+    padding-left: 87px;
+    padding-right: 87px;
+}
+
+.star {
+    background-image: url(star.png);
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border: 1px solid black;
+    margin-left: 60px;
+    display: inline-block;
+    /* padding-top: 5px;
+    padding-bottom: 5px; */
+    font-weight: 600;
+}
+
+.number {
+    background-image: url(number.png);
+    background-size: contain;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    border: 1px solid black;
+}
